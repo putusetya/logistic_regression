@@ -1,2 +1,2 @@
 # Kumpulan Code Logistic Regression
-File binary logreg.ipynb memuat code untuk memodelkan regresi logistik dengan output biner
+File binary_logreg.ipynb memuat code untuk memodelkan regresi logistik dengan output biner.
